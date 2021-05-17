@@ -5,6 +5,7 @@
 
 C++
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=naks)](https://solved.ac/naks)
+<br>
 JAVA
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=krh963852)](https://solved.ac/krh963852)
 
