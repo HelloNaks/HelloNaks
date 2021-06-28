@@ -1,8 +1,7 @@
 #### Backend Developer 
 
-Spring Boot
-
-Studying Spring
+Java / Spring / Vue.js
+C++ / 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HelloNaks&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloNaks&layout=compact)](https://github.com/HelloNaks/github-readme-stats)
