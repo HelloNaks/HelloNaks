@@ -2,7 +2,7 @@
    
 Skills  
     
-Java / Spring / Vue.js   
+Java / Spring / Vue.js    
    
 C++ /  
 
