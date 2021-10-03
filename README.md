@@ -12,7 +12,7 @@ C++ /
 
 <br>
 JAVA
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=krh963852)](https://solved.ac/krh963852)
+![[Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=krh963852)](https://solved.ac/krh963852)
  
 <!--
 **HelloNaks/HelloNaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
