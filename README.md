@@ -2,7 +2,7 @@
      
 <h1 align="center">Hi 👋  I'm Rakhyun Kim</h1>
 
-<h3>Tech Stack</h3>
+<h3>Tech Stack</h3> 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/></a>&nbsp
