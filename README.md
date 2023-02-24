@@ -1,7 +1,7 @@
 #### Backend Developer     
          
 <h1 align="center">Hi 👋  I'm Rakhyun Kim</h1>    
- 
+ email : continuedevelop@gmail.com
  
 <h3>Tech Stack</h3> 
 <p>
