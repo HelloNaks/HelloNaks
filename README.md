@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋  I'm Rakhyun Kim</h1>    
  email : continuedevelop@gmail.com
  certificates : 
-          - PCCP LV4 (Java) 2024-11-17
-          - OPIC IM3 2024-10-26
-          - 정보처리기사 2020-11-12
+          - PCCP LV4 (Java) 2024-11-17  <br>
+          - OPIC IM3 2024-10-26         <br>
+          - 정보처리기사 2020-11-12        <br>
           
 <h3>Tech Stack</h3> 
 <p>
@@ -22,6 +22,7 @@
 
 <br/>
 
+코딩테스트 (2024-10-10 ~ )
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pingus)](https://solved.ac/pingus)
 
