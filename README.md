@@ -2,7 +2,7 @@
          
 <h1 align="center">Hi 👋  I'm Rakhyun Kim</h1>    
  email : continuedevelop@gmail.com
- certificates : 
+ certificates : <br>
           - PCCP LV4 (Java) 2024-11-17  <br>
           - OPIC IM3 2024-10-26         <br>
           - 정보처리기사 2020-11-12        <br>
