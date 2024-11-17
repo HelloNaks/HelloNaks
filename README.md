@@ -1,7 +1,7 @@
 #### Backend Developer     
          
 <h1 align="center">Hi 👋  I'm Rakhyun Kim</h1>    
- email : continuedevelop@gmail.com
+ email : continuedevelop@gmail.com <br>
  certificates : <br>
           - PCCP LV4 (Java) 2024-11-17  <br>
           - OPIC IM3 2024-10-26         <br>
@@ -22,7 +22,7 @@
 
 <br/>
 
-코딩테스트 (2024-10-10 ~ )
+코딩테스트 (2024-10-10 ~ ) <br>
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pingus)](https://solved.ac/pingus)
 
